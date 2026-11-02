@@ -1,0 +1,2246 @@
+[
+  {
+    "type": "entity",
+    "name": "1x2-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "accumulator"
+  },
+  {
+    "type": "entity",
+    "name": "accumulator-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "accumulator-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "acid-cloud"
+  },
+  {
+    "type": "entity",
+    "name": "acid-cloud-visual-dummy"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-spitter-behemoth"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-spitter-big"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-spitter-medium"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-spitter-small"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-worm-behemoth"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-worm-big"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-worm-medium"
+  },
+  {
+    "type": "entity",
+    "name": "acid-splash-fire-worm-small"
+  },
+  {
+    "type": "entity",
+    "name": "acid-sticker-behemoth"
+  },
+  {
+    "type": "entity",
+    "name": "acid-sticker-big"
+  },
+  {
+    "type": "entity",
+    "name": "acid-sticker-medium"
+  },
+  {
+    "type": "entity",
+    "name": "acid-sticker-small"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-spitter-behemoth"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-spitter-big"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-spitter-medium"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-spitter-small"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-worm-behemoth"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-worm-big"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-worm-medium"
+  },
+  {
+    "type": "entity",
+    "name": "acid-stream-worm-small"
+  },
+  {
+    "type": "entity",
+    "name": "active-provider-chest"
+  },
+  {
+    "type": "entity",
+    "name": "active-provider-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "active-provider-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "arithmetic-combinator"
+  },
+  {
+    "type": "entity",
+    "name": "arithmetic-combinator-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "arithmetic-combinator-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-cannon-muzzle-flash"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-flare"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-turret"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-turret-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-turret-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-wagon"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-wagon-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "artillery-wagon-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-1"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-1-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-1-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-2"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-2-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-2-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-3"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-3-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "assembling-machine-3-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-ground-zero-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-wave"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-wave-spawns-cluster-nuke-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-wave-spawns-fire-smoke-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-wave-spawns-nuclear-smoke"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-bomb-wave-spawns-nuke-shockwave-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-fire-smoke"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-nuke-shockwave"
+  },
+  {
+    "type": "entity",
+    "name": "atomic-rocket"
+  },
+  {
+    "type": "entity",
+    "name": "beacon"
+  },
+  {
+    "type": "entity",
+    "name": "beacon-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "beacon-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-biter"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-biter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-biter-die"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-spitter"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-spitter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-spitter-die"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-worm-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-worm-corpse-burrowed"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-worm-die"
+  },
+  {
+    "type": "entity",
+    "name": "behemoth-worm-turret"
+  },
+  {
+    "type": "entity",
+    "name": "big-artillery-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "big-biter"
+  },
+  {
+    "type": "entity",
+    "name": "big-biter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "big-biter-die"
+  },
+  {
+    "type": "entity",
+    "name": "big-electric-pole"
+  },
+  {
+    "type": "entity",
+    "name": "big-electric-pole-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "big-electric-pole-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "big-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "big-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "big-rock"
+  },
+  {
+    "type": "entity",
+    "name": "big-sand-rock"
+  },
+  {
+    "type": "entity",
+    "name": "big-scorchmark"
+  },
+  {
+    "type": "entity",
+    "name": "big-scorchmark-tintable"
+  },
+  {
+    "type": "entity",
+    "name": "big-spitter"
+  },
+  {
+    "type": "entity",
+    "name": "big-spitter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "big-spitter-die"
+  },
+  {
+    "type": "entity",
+    "name": "big-worm-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "big-worm-corpse-burrowed"
+  },
+  {
+    "type": "entity",
+    "name": "big-worm-die"
+  },
+  {
+    "type": "entity",
+    "name": "big-worm-turret"
+  },
+  {
+    "type": "entity",
+    "name": "biter-spawner"
+  },
+  {
+    "type": "entity",
+    "name": "biter-spawner-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "biter-spawner-die"
+  },
+  {
+    "type": "entity",
+    "name": "blood-explosion-big"
+  },
+  {
+    "type": "entity",
+    "name": "blood-explosion-huge"
+  },
+  {
+    "type": "entity",
+    "name": "blood-explosion-small"
+  },
+  {
+    "type": "entity",
+    "name": "blood-fountain"
+  },
+  {
+    "type": "entity",
+    "name": "blood-fountain-big"
+  },
+  {
+    "type": "entity",
+    "name": "blood-fountain-hit-spray"
+  },
+  {
+    "type": "entity",
+    "name": "blue-chest"
+  },
+  {
+    "type": "entity",
+    "name": "blue-laser"
+  },
+  {
+    "type": "entity",
+    "name": "boiler"
+  },
+  {
+    "type": "entity",
+    "name": "boiler-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "boiler-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "bottomless-chest"
+  },
+  {
+    "type": "entity",
+    "name": "buffer-chest"
+  },
+  {
+    "type": "entity",
+    "name": "buffer-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "buffer-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "bulk-inserter"
+  },
+  {
+    "type": "entity",
+    "name": "bulk-inserter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "bulk-inserter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "burner-generator"
+  },
+  {
+    "type": "entity",
+    "name": "burner-inserter"
+  },
+  {
+    "type": "entity",
+    "name": "burner-inserter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "burner-inserter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "burner-mining-drill"
+  },
+  {
+    "type": "entity",
+    "name": "burner-mining-drill-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "burner-mining-drill-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "cannon-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "car"
+  },
+  {
+    "type": "entity",
+    "name": "car-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "car-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-landing-pad"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-landing-pad-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-pod"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-pod-container"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-pod-container-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-pod-container-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-pod-shadow"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-wagon"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-wagon-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "cargo-wagon-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "centrifuge"
+  },
+  {
+    "type": "entity",
+    "name": "centrifuge-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "centrifuge-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "character"
+  },
+  {
+    "type": "entity",
+    "name": "character-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "chemical-plant"
+  },
+  {
+    "type": "entity",
+    "name": "chemical-plant-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "chemical-plant-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "cliff"
+  },
+  {
+    "type": "entity",
+    "name": "cliff-explosives"
+  },
+  {
+    "type": "entity",
+    "name": "cluster-grenade"
+  },
+  {
+    "type": "entity",
+    "name": "cluster-nuke-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "coal"
+  },
+  {
+    "type": "entity",
+    "name": "compi-speech-bubble"
+  },
+  {
+    "type": "entity",
+    "name": "constant-combinator"
+  },
+  {
+    "type": "entity",
+    "name": "constant-combinator-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "constant-combinator-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "construction-robot"
+  },
+  {
+    "type": "entity",
+    "name": "construction-robot-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "construction-robot-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "copper-ore"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-chest-1"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-chest-2"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-explosion-smoke"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-fire-flame"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-fire-smoke"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-big-1"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-big-2"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-medium-1"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-medium-2"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-medium-3"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-1"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-2"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-3"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-4"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-5"
+  },
+  {
+    "type": "entity",
+    "name": "crash-site-spaceship-wreck-small-6"
+  },
+  {
+    "type": "entity",
+    "name": "crude-oil"
+  },
+  {
+    "type": "entity",
+    "name": "curved-rail-a"
+  },
+  {
+    "type": "entity",
+    "name": "curved-rail-a-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "curved-rail-b"
+  },
+  {
+    "type": "entity",
+    "name": "curved-rail-b-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "dead-dry-hairy-tree"
+  },
+  {
+    "type": "entity",
+    "name": "dead-grey-trunk"
+  },
+  {
+    "type": "entity",
+    "name": "dead-tree-desert"
+  },
+  {
+    "type": "entity",
+    "name": "decider-combinator"
+  },
+  {
+    "type": "entity",
+    "name": "decider-combinator-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "decider-combinator-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "deconstructible-tile-proxy"
+  },
+  {
+    "type": "entity",
+    "name": "defender"
+  },
+  {
+    "type": "entity",
+    "name": "defender-capsule"
+  },
+  {
+    "type": "entity",
+    "name": "defender-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "defender-robot-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "destroyer"
+  },
+  {
+    "type": "entity",
+    "name": "destroyer-capsule"
+  },
+  {
+    "type": "entity",
+    "name": "destroyer-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "destroyer-robot-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "display-panel"
+  },
+  {
+    "type": "entity",
+    "name": "display-panel-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "display-panel-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "distractor"
+  },
+  {
+    "type": "entity",
+    "name": "distractor-capsule"
+  },
+  {
+    "type": "entity",
+    "name": "distractor-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "distractor-robot-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "dry-hairy-tree"
+  },
+  {
+    "type": "entity",
+    "name": "dry-tree"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-elevated-curved-rail-a"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-elevated-curved-rail-b"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-elevated-half-diagonal-rail"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-elevated-straight-rail"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-rail-ramp"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-rail-support"
+  },
+  {
+    "type": "entity",
+    "name": "dummy-spider-unit"
+  },
+  {
+    "type": "entity",
+    "name": "electric-beam"
+  },
+  {
+    "type": "entity",
+    "name": "electric-beam-no-sound"
+  },
+  {
+    "type": "entity",
+    "name": "electric-energy-interface"
+  },
+  {
+    "type": "entity",
+    "name": "electric-furnace"
+  },
+  {
+    "type": "entity",
+    "name": "electric-furnace-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "electric-furnace-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "electric-mini-stun"
+  },
+  {
+    "type": "entity",
+    "name": "electric-mining-drill"
+  },
+  {
+    "type": "entity",
+    "name": "electric-mining-drill-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "electric-mining-drill-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "enemy-damaged-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "entity-ghost"
+  },
+  {
+    "type": "entity",
+    "name": "entity-unknown"
+  },
+  {
+    "type": "entity",
+    "name": "explosion"
+  },
+  {
+    "type": "entity",
+    "name": "explosion-gunshot"
+  },
+  {
+    "type": "entity",
+    "name": "explosion-gunshot-small"
+  },
+  {
+    "type": "entity",
+    "name": "explosion-hit"
+  },
+  {
+    "type": "entity",
+    "name": "explosive-cannon-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "explosive-rocket"
+  },
+  {
+    "type": "entity",
+    "name": "explosive-uranium-cannon-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "express-loader"
+  },
+  {
+    "type": "entity",
+    "name": "express-splitter"
+  },
+  {
+    "type": "entity",
+    "name": "express-splitter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "express-splitter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "express-transport-belt"
+  },
+  {
+    "type": "entity",
+    "name": "express-transport-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "express-transport-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "express-transport-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "express-underground-belt"
+  },
+  {
+    "type": "entity",
+    "name": "express-underground-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "express-underground-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "express-underground-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "factorio-logo-11tiles"
+  },
+  {
+    "type": "entity",
+    "name": "factorio-logo-16tiles"
+  },
+  {
+    "type": "entity",
+    "name": "factorio-logo-22tiles"
+  },
+  {
+    "type": "entity",
+    "name": "fake-selection-box-2x2"
+  },
+  {
+    "type": "entity",
+    "name": "fast-inserter"
+  },
+  {
+    "type": "entity",
+    "name": "fast-inserter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "fast-inserter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "fast-loader"
+  },
+  {
+    "type": "entity",
+    "name": "fast-splitter"
+  },
+  {
+    "type": "entity",
+    "name": "fast-splitter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "fast-splitter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "fast-transport-belt"
+  },
+  {
+    "type": "entity",
+    "name": "fast-transport-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "fast-transport-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "fast-transport-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "fast-underground-belt"
+  },
+  {
+    "type": "entity",
+    "name": "fast-underground-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "fast-underground-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "fast-underground-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "fire-flame"
+  },
+  {
+    "type": "entity",
+    "name": "fire-flame-on-tree"
+  },
+  {
+    "type": "entity",
+    "name": "fire-sticker"
+  },
+  {
+    "type": "entity",
+    "name": "fish"
+  },
+  {
+    "type": "entity",
+    "name": "flamethrower-fire-stream"
+  },
+  {
+    "type": "entity",
+    "name": "flamethrower-turret"
+  },
+  {
+    "type": "entity",
+    "name": "flamethrower-turret-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "flamethrower-turret-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "fluid-wagon"
+  },
+  {
+    "type": "entity",
+    "name": "fluid-wagon-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "fluid-wagon-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "flying-robot-damaged-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "gate"
+  },
+  {
+    "type": "entity",
+    "name": "gate-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "gate-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "grenade"
+  },
+  {
+    "type": "entity",
+    "name": "grenade-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "ground-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "gun-turret"
+  },
+  {
+    "type": "entity",
+    "name": "gun-turret-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "gun-turret-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "half-diagonal-rail"
+  },
+  {
+    "type": "entity",
+    "name": "half-diagonal-rail-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "handheld-flamethrower-fire-stream"
+  },
+  {
+    "type": "entity",
+    "name": "heat-exchanger"
+  },
+  {
+    "type": "entity",
+    "name": "heat-exchanger-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "heat-exchanger-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "heat-interface"
+  },
+  {
+    "type": "entity",
+    "name": "heat-pipe"
+  },
+  {
+    "type": "entity",
+    "name": "heat-pipe-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "heat-pipe-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "hidden-electric-energy-interface"
+  },
+  {
+    "type": "entity",
+    "name": "highlight-box"
+  },
+  {
+    "type": "entity",
+    "name": "huge-rock"
+  },
+  {
+    "type": "entity",
+    "name": "huge-scorchmark"
+  },
+  {
+    "type": "entity",
+    "name": "huge-scorchmark-tintable"
+  },
+  {
+    "type": "entity",
+    "name": "infinity-cargo-wagon"
+  },
+  {
+    "type": "entity",
+    "name": "infinity-chest"
+  },
+  {
+    "type": "entity",
+    "name": "infinity-pipe"
+  },
+  {
+    "type": "entity",
+    "name": "inserter"
+  },
+  {
+    "type": "entity",
+    "name": "inserter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "inserter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "iron-chest"
+  },
+  {
+    "type": "entity",
+    "name": "iron-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "iron-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "iron-ore"
+  },
+  {
+    "type": "entity",
+    "name": "item-on-ground"
+  },
+  {
+    "type": "entity",
+    "name": "item-request-proxy"
+  },
+  {
+    "type": "entity",
+    "name": "lab"
+  },
+  {
+    "type": "entity",
+    "name": "lab-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "lab-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "lamp-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "lamp-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "land-mine"
+  },
+  {
+    "type": "entity",
+    "name": "land-mine-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "land-mine-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "lane-splitter"
+  },
+  {
+    "type": "entity",
+    "name": "laser"
+  },
+  {
+    "type": "entity",
+    "name": "laser-beam"
+  },
+  {
+    "type": "entity",
+    "name": "laser-bubble"
+  },
+  {
+    "type": "entity",
+    "name": "laser-turret"
+  },
+  {
+    "type": "entity",
+    "name": "laser-turret-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "laser-turret-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "legacy-curved-rail"
+  },
+  {
+    "type": "entity",
+    "name": "legacy-curved-rail-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "legacy-straight-rail"
+  },
+  {
+    "type": "entity",
+    "name": "legacy-straight-rail-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "linked-belt"
+  },
+  {
+    "type": "entity",
+    "name": "linked-chest"
+  },
+  {
+    "type": "entity",
+    "name": "loader"
+  },
+  {
+    "type": "entity",
+    "name": "loader-1x1"
+  },
+  {
+    "type": "entity",
+    "name": "locomotive"
+  },
+  {
+    "type": "entity",
+    "name": "locomotive-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "locomotive-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "logistic-robot"
+  },
+  {
+    "type": "entity",
+    "name": "logistic-robot-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "logistic-robot-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "long-handed-inserter"
+  },
+  {
+    "type": "entity",
+    "name": "long-handed-inserter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "long-handed-inserter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "market"
+  },
+  {
+    "type": "entity",
+    "name": "massive-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "medium-biter"
+  },
+  {
+    "type": "entity",
+    "name": "medium-biter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "medium-biter-die"
+  },
+  {
+    "type": "entity",
+    "name": "medium-electric-pole"
+  },
+  {
+    "type": "entity",
+    "name": "medium-electric-pole-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "medium-electric-pole-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "medium-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "medium-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "medium-scorchmark"
+  },
+  {
+    "type": "entity",
+    "name": "medium-scorchmark-tintable"
+  },
+  {
+    "type": "entity",
+    "name": "medium-small-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "medium-spitter"
+  },
+  {
+    "type": "entity",
+    "name": "medium-spitter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "medium-spitter-die"
+  },
+  {
+    "type": "entity",
+    "name": "medium-worm-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "medium-worm-corpse-burrowed"
+  },
+  {
+    "type": "entity",
+    "name": "medium-worm-die"
+  },
+  {
+    "type": "entity",
+    "name": "medium-worm-turret"
+  },
+  {
+    "type": "entity",
+    "name": "nuclear-reactor"
+  },
+  {
+    "type": "entity",
+    "name": "nuclear-reactor-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "nuclear-reactor-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "nuclear-smouldering-smoke-source"
+  },
+  {
+    "type": "entity",
+    "name": "nuke-effects-nauvis"
+  },
+  {
+    "type": "entity",
+    "name": "nuke-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "offshore-pump"
+  },
+  {
+    "type": "entity",
+    "name": "offshore-pump-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "offshore-pump-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "oil-refinery"
+  },
+  {
+    "type": "entity",
+    "name": "oil-refinery-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "oil-refinery-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "one-way-valve"
+  },
+  {
+    "type": "entity",
+    "name": "orange-arrow-with-circle"
+  },
+  {
+    "type": "entity",
+    "name": "overflow-valve"
+  },
+  {
+    "type": "entity",
+    "name": "passive-provider-chest"
+  },
+  {
+    "type": "entity",
+    "name": "passive-provider-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "passive-provider-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "piercing-shotgun-pellet"
+  },
+  {
+    "type": "entity",
+    "name": "pipe"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-to-ground"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-to-ground-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-to-ground-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "pipe-to-ground-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "poison-capsule"
+  },
+  {
+    "type": "entity",
+    "name": "poison-cloud"
+  },
+  {
+    "type": "entity",
+    "name": "poison-cloud-visual-dummy"
+  },
+  {
+    "type": "entity",
+    "name": "power-switch"
+  },
+  {
+    "type": "entity",
+    "name": "power-switch-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "power-switch-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "programmable-speaker"
+  },
+  {
+    "type": "entity",
+    "name": "programmable-speaker-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "programmable-speaker-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "proxy-container"
+  },
+  {
+    "type": "entity",
+    "name": "pump"
+  },
+  {
+    "type": "entity",
+    "name": "pump-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "pump-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "pumpjack"
+  },
+  {
+    "type": "entity",
+    "name": "pumpjack-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "pumpjack-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "radar"
+  },
+  {
+    "type": "entity",
+    "name": "radar-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "radar-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "rail-chain-signal"
+  },
+  {
+    "type": "entity",
+    "name": "rail-chain-signal-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "rail-chain-signal-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "rail-ending-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "rail-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "rail-signal"
+  },
+  {
+    "type": "entity",
+    "name": "rail-signal-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "rail-signal-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "red-chest"
+  },
+  {
+    "type": "entity",
+    "name": "requester-chest"
+  },
+  {
+    "type": "entity",
+    "name": "requester-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "requester-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "roboport"
+  },
+  {
+    "type": "entity",
+    "name": "roboport-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "roboport-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "rock-damaged-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "rocket"
+  },
+  {
+    "type": "entity",
+    "name": "rocket-silo"
+  },
+  {
+    "type": "entity",
+    "name": "rocket-silo-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "rocket-silo-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "rocket-silo-rocket"
+  },
+  {
+    "type": "entity",
+    "name": "rocket-silo-rocket-shadow"
+  },
+  {
+    "type": "entity",
+    "name": "selector-combinator"
+  },
+  {
+    "type": "entity",
+    "name": "selector-combinator-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "selector-combinator-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "shotgun-impact-sticker"
+  },
+  {
+    "type": "entity",
+    "name": "shotgun-pellet"
+  },
+  {
+    "type": "entity",
+    "name": "simple-entity-with-force"
+  },
+  {
+    "type": "entity",
+    "name": "simple-entity-with-owner"
+  },
+  {
+    "type": "entity",
+    "name": "slowdown-capsule"
+  },
+  {
+    "type": "entity",
+    "name": "slowdown-capsule-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "slowdown-sticker"
+  },
+  {
+    "type": "entity",
+    "name": "small-biter"
+  },
+  {
+    "type": "entity",
+    "name": "small-biter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "small-biter-die"
+  },
+  {
+    "type": "entity",
+    "name": "small-electric-pole"
+  },
+  {
+    "type": "entity",
+    "name": "small-electric-pole-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "small-electric-pole-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "small-explosion-hit"
+  },
+  {
+    "type": "entity",
+    "name": "small-lamp"
+  },
+  {
+    "type": "entity",
+    "name": "small-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "small-scorchmark"
+  },
+  {
+    "type": "entity",
+    "name": "small-scorchmark-tintable"
+  },
+  {
+    "type": "entity",
+    "name": "small-spitter"
+  },
+  {
+    "type": "entity",
+    "name": "small-spitter-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "small-spitter-die"
+  },
+  {
+    "type": "entity",
+    "name": "small-worm-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "small-worm-corpse-burrowed"
+  },
+  {
+    "type": "entity",
+    "name": "small-worm-die"
+  },
+  {
+    "type": "entity",
+    "name": "small-worm-turret"
+  },
+  {
+    "type": "entity",
+    "name": "solar-panel"
+  },
+  {
+    "type": "entity",
+    "name": "solar-panel-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "solar-panel-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "spark-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "spark-explosion-higher"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-1"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-2"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-3"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-4"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-5"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-6"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-7"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-leg-8"
+  },
+  {
+    "type": "entity",
+    "name": "spidertron-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "spitter-spawner"
+  },
+  {
+    "type": "entity",
+    "name": "spitter-spawner-corpse"
+  },
+  {
+    "type": "entity",
+    "name": "spitter-spawner-die"
+  },
+  {
+    "type": "entity",
+    "name": "splitter"
+  },
+  {
+    "type": "entity",
+    "name": "splitter-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "splitter-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "steam-engine"
+  },
+  {
+    "type": "entity",
+    "name": "steam-engine-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "steam-engine-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "steam-turbine"
+  },
+  {
+    "type": "entity",
+    "name": "steam-turbine-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "steam-turbine-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "steel-chest"
+  },
+  {
+    "type": "entity",
+    "name": "steel-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "steel-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "steel-furnace"
+  },
+  {
+    "type": "entity",
+    "name": "steel-furnace-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "steel-furnace-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "stone"
+  },
+  {
+    "type": "entity",
+    "name": "stone-furnace"
+  },
+  {
+    "type": "entity",
+    "name": "stone-furnace-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "stone-furnace-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "stone-wall"
+  },
+  {
+    "type": "entity",
+    "name": "storage-chest"
+  },
+  {
+    "type": "entity",
+    "name": "storage-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "storage-chest-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "storage-tank"
+  },
+  {
+    "type": "entity",
+    "name": "storage-tank-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "storage-tank-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "straight-rail"
+  },
+  {
+    "type": "entity",
+    "name": "straight-rail-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "stun-sticker"
+  },
+  {
+    "type": "entity",
+    "name": "substation"
+  },
+  {
+    "type": "entity",
+    "name": "substation-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "substation-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "tank"
+  },
+  {
+    "type": "entity",
+    "name": "tank-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "tank-flamethrower-fire-stream"
+  },
+  {
+    "type": "entity",
+    "name": "tank-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "tile-ghost"
+  },
+  {
+    "type": "entity",
+    "name": "tile-proxy"
+  },
+  {
+    "type": "entity",
+    "name": "top-up-valve"
+  },
+  {
+    "type": "entity",
+    "name": "train-stop"
+  },
+  {
+    "type": "entity",
+    "name": "train-stop-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "train-stop-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "transport-belt"
+  },
+  {
+    "type": "entity",
+    "name": "transport-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "transport-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "transport-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "tree-01"
+  },
+  {
+    "type": "entity",
+    "name": "tree-01-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-02"
+  },
+  {
+    "type": "entity",
+    "name": "tree-02-red"
+  },
+  {
+    "type": "entity",
+    "name": "tree-02-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-03"
+  },
+  {
+    "type": "entity",
+    "name": "tree-03-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-04"
+  },
+  {
+    "type": "entity",
+    "name": "tree-04-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-05"
+  },
+  {
+    "type": "entity",
+    "name": "tree-05-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-06"
+  },
+  {
+    "type": "entity",
+    "name": "tree-06-brown"
+  },
+  {
+    "type": "entity",
+    "name": "tree-06-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-07"
+  },
+  {
+    "type": "entity",
+    "name": "tree-07-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-08"
+  },
+  {
+    "type": "entity",
+    "name": "tree-08-brown"
+  },
+  {
+    "type": "entity",
+    "name": "tree-08-red"
+  },
+  {
+    "type": "entity",
+    "name": "tree-08-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-09"
+  },
+  {
+    "type": "entity",
+    "name": "tree-09-brown"
+  },
+  {
+    "type": "entity",
+    "name": "tree-09-red"
+  },
+  {
+    "type": "entity",
+    "name": "tree-09-stump"
+  },
+  {
+    "type": "entity",
+    "name": "tree-dying-proxy"
+  },
+  {
+    "type": "entity",
+    "name": "tree-proxy"
+  },
+  {
+    "type": "entity",
+    "name": "underground-belt"
+  },
+  {
+    "type": "entity",
+    "name": "underground-belt-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "underground-belt-explosion-base"
+  },
+  {
+    "type": "entity",
+    "name": "underground-belt-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "uranium-cannon-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "uranium-cannon-projectile"
+  },
+  {
+    "type": "entity",
+    "name": "uranium-cannon-shell-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "uranium-ore"
+  },
+  {
+    "type": "entity",
+    "name": "wall-damaged-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "wall-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "wall-remnants"
+  },
+  {
+    "type": "entity",
+    "name": "water-splash"
+  },
+  {
+    "type": "entity",
+    "name": "wooden-chest"
+  },
+  {
+    "type": "entity",
+    "name": "wooden-chest-explosion"
+  },
+  {
+    "type": "entity",
+    "name": "wooden-chest-remnants"
+  }
+]
